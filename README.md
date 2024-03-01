@@ -1,2 +1,2 @@
 # Quiz-Front-End
-https://65e0d5728e48ce147296d2bb--candid-frangipane-7983d8.netlify.app/
+https://65e20a97c97a45e9a9d6c63a--zippy-longma-b713cd.netlify.app/
