@@ -14,8 +14,8 @@ body {
 #quiz-container {
 	width: 400px;
 	padding: 20px;
-	background-color: #fff;
-	border: 1px solid #ddd;
+	background-color: #87CEEB;
+	border: 1px solid #57b9f1c5;
 	border-radius: 10px;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 	box-sizing: border-box;
@@ -124,3 +124,14 @@ body {
 #restart-btn:hover {
 	background-color: #c02b2b;
 }
+
+.option.correct {
+	background-color: #4caf50;
+	color: white;
+  }
+  
+  .option.incorrect {
+	background-color: #f44336;
+	color: white;
+  }
+  
